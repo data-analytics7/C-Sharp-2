@@ -1,4 +1,4 @@
-Geospatial-based Recommender System using Social Networks and Multimedia
+# Geospatial-based Recommender System using Social Networks and Multimedia
 
 
 The system is dependent on a person using lifelogging technology to input valuable personal information into the system, e.g. by uploading geotagged photos or status updates. 
